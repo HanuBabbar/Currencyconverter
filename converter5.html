@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        .header{
+    padding: 40px;
+    text-align: center;
+    background-color: #000;
+    width: 1300px;
+    border-radius: 10px;
+    margin-left: 50px;
+    margin-top: 10px;
+    }
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+        }
+
+        .container {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            grid-auto-rows: minmax(150px, auto);
+            gap: 10px;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            padding: 20px;
+        }
+
+        .tile {
+            background-color: #cbd6ce;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            color: #000;
+            font-size: 24px;
+            font-weight: bold;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+            transition: transform 0.2s, box-shadow 0.2s;
+            text-align: center;
+            height: 200px;
+            margin: 10px;
+            margin-bottom: 100px;
+        }
+
+        .tile:hover {
+            transform: scale(1.05);
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
+        }
+        
+    </style>
+</head>
+<body >
+
+    <div class="header">
+        <h1 style="font-size: 50px;color: #fff;">Working of currency converter</h1>
+
+    </div>
+    <div class="container">
+        <div class="tile">Currency controls are regulations to restrict the free exchange of currency at market rates.</div>
+        <div class="tile">The most common form is a law that prevents a country’s residents from holding foreign currency, and requiring foreigners to exchange for the country’s domestic currency only through official channels</div>
+        <div class="tile">There are less restrictive form of currency controls, like restrictions on the amount of currency that can be taken into or out of the country.</div>
+        
+    
+    </div>
+
+    <iframe style="margin-left: 470px; margin-bottom: 300px;" width="560" height="315" src="https://www.youtube.com/watch?v=YDEl9jjYt6E" frameborder="0" allowfullscreen></iframe>
+</body>
+</html>
