@@ -1,0 +1,233 @@
+.main{display: flex;}
+#div1{background-color: rgba(255, 0, 0, 0.4);
+font-style: italic;
+text-align: center;
+font-size: x-large;
+text-decoration: solid;
+height: 200px;
+width: 200px;
+margin: 45px;
+border-color: black;}
+#p1{font-size: medium;
+    font-style: italic;
+text-decoration: dotted;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+#p2{font-size: x-large;
+text-align: center;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-weight: 50;
+text-decoration: underline;
+font-style: italic;
+opacity: 0.8;}
+#div2{background-color: rgba(255, 0, 0, 0.4);
+    text-align: center;
+    font-size: x-large;
+    text-decoration: solid;
+    height: 200px;
+    width: 200px;
+    margin: 45px;
+    border-color: black;}
+#p4{font-size: medium;
+    font-style: italic;
+    text-decoration: dotted;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+#p3{font-size: x-large;
+    text-align: center;
+    font-weight: 50;
+    text-decoration: solid;
+    font-style: italic ;
+    opacity: 0.8;}
+#p5{text-align: center;
+font-weight: 100;
+font-style: italic;
+text-decoration: underline;
+text-decoration-color: brown;
+font-size: xx-large;}
+#div3{background-color: rgba(255, 0, 0, 0.4);
+    font-style: italic;
+    text-align: center;
+    font-size: x-large;
+    text-decoration: solid;
+    height: 250px;
+    width: 200px;
+    margin: 45px;
+    border-color: black;}
+    #p7{font-size: medium;
+        text-decoration: dotted;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+    #p6{font-size: x-large;
+        text-align: center;
+        font-weight: 50;
+        text-decoration: solid;
+        font-style: italic ;
+        opacity: 0.8;}
+        #div4{background-color: rgba(255, 0, 0, 0.4);
+            font-style: italic;
+            text-align: center;
+            font-size: x-large;
+            text-decoration: solid;
+            height: 300px;
+            width: 200px;
+            margin: 45px;
+            border-color: black;}
+            #p9{font-size: medium;
+                text-decoration: dotted;
+                font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+            #p8{font-size: x-large;
+                text-align: center;
+                font-weight: 50;
+                text-decoration: solid;
+                font-style: italic ;
+                opacity: 0.8;}
+                #div5{background-color: rgba(255, 0, 0, 0.4);
+                    font-style: italic;
+                    text-align: center;
+                    font-size: x-large;
+                    text-decoration: solid;
+                    height: 300px;
+                    width: 200px;
+                    margin: 45px;
+                    border-color: black;}
+                    #p11{font-size: medium;
+                        text-decoration: dotted;
+                        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+                    #p10{font-size: x-large;
+                        text-align: center;
+                        font-weight: 50;
+                        text-decoration: solid;
+                        font-style: italic ;
+                        opacity: 0.8;}
+                        h1{font-size: x-large;
+                        font-weight: 5px;
+                    text-align: left;
+                color: rgb(94, 94, 244);}
+                .main1{display: flex;}
+
+                #div6{background-color: rgba(197, 192, 192, 0.4);
+                    text-align: center;
+                    height: 250px;
+                    width: 200px;
+                    border: solid rgb(135, 131, 131)}
+                    #p13{font-size: small;
+                        text-decoration: dotted;
+                        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+            h2{font-size: large;
+                        text-align: center;
+                        font-weight: 50; ;
+                        opacity: 0.8;}
+                        
+                        #div7{background-color: rgba(197, 192, 192, 0.4);
+                            text-align: center;
+                            height: 250px;
+                            width: 200px;
+                            border: solid rgb(135, 131, 131)}
+                            #p14{font-size: small;
+                                text-decoration: dotted;
+                                font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+                    #h3{font-size: large;
+                                text-align: center;
+                                font-weight: 50; ;
+                                opacity: 0.8;}
+                                
+                                
+                        
+                        
+                                #div8{background-color: rgba(197, 192, 192, 0.4);
+                                    text-align: center;
+                                    height: 250px;
+                                    width: 200px;
+                                    border: solid rgb(135, 131, 131)}
+                                    #p15{font-size: small;
+                                        text-decoration: dotted;
+                                        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+                            #h4{font-size: large;
+                                        text-align: center;
+                                        font-weight: 50; ;
+                                        opacity: 0.8;}
+                                        
+                                        
+                                
+                                
+                                        #div9{background-color: rgba(197, 192, 192, 0.4);
+                                            text-align: center;
+                                            height: 250px;
+                                            width: 200px;
+                                            border: solid rgb(135, 131, 131)}
+                                            #p16{font-size: small;
+                                                text-decoration: dotted;
+                                                font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+                                    #h5{font-size: large;
+                                                text-align: center;
+                                                font-weight: 50; ;
+                                                opacity: 0.8;}
+                                                
+                                        #div10{background-color: rgba(197, 192, 192, 0.4);
+                                            text-align: center;
+                                            height: 250px;
+                                            width: 200px;
+                                            border: solid rgb(135, 131, 131)}
+                                            #p17{font-size: small;
+                                                text-decoration: dotted;
+                                                font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+                                    #h6{font-size: large;
+                                                text-align: center;
+                                                font-weight: 50; ;
+                                                opacity: 0.8;}
+                                                
+                                        #div11{background-color: rgba(197, 192, 192, 0.4);
+                                            text-align: center;
+                                            height: 250px;
+                                            width: 200px;
+                                            border: solid rgb(135, 131, 131)}
+                                            #p18{font-size: small;
+                                                text-decoration: dotted;
+                                                font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+                                    #h7{font-size: smaller;
+                                                text-align: center;
+                                                font-weight: 50; ;
+                                                opacity: 0.8;}
+                                                
+                                        #div12{background-color: rgba(197, 192, 192, 0.4);
+                                            text-align: center;
+                                            height: 250px;
+                                            width: 200px;
+                                            border: solid rgb(135, 131, 131)}
+                                            #p19{font-size: small;
+                                                text-decoration: dotted;
+                                                font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+                                    #h8{font-size: large;
+                                                text-align: center;
+                                                font-weight: 50; ;
+                                                opacity: 0.8;}
+                                                
+                                        #div13{background-color: rgba(197, 192, 192, 0.4);
+                                            text-align: center;
+                                            height: 250px;
+                                            width: 200px;
+                                            border: solid rgb(135, 131, 131)}
+                                            #p20{font-size: small;
+                                                text-decoration: dotted;
+                                                font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+                                    #h9{font-size: large;
+                                                text-align: center;
+                                                font-weight: 50; ;
+                                                opacity: 0.8;}
+                                                
+                                        #div14{background-color: rgba(197, 192, 192, 0.4);
+                                            text-align: center;
+                                            height: 250px;
+                                            width: 200px;
+                                            border: solid rgb(135, 131, 131)}
+                                            #p21{font-size: small;
+                                                text-decoration: dotted;
+                                                font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+                                    #h10{font-size: large;
+                                                text-align: center;
+                                                font-weight: 50; ;
+                                                opacity: 0.8;}
+                                                
+                                                
+                                        
+                                        
+                        
+        
