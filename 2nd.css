@@ -1,5 +1,5 @@
 .main{display: flex;}
-#div1{background-color: rgba(255, 0, 0, 0.4);
+#div1{background-color: #fff;
 font-style: italic;
 text-align: center;
 font-size: x-large;
@@ -7,7 +7,9 @@ text-decoration: solid;
 height: 200px;
 width: 200px;
 margin: 45px;
-border-color: black;}
+border-color: black;
+border-radius: 10px;
+height: 300px;}
 #p1{font-size: medium;
     font-style: italic;
 text-decoration: dotted;
@@ -18,15 +20,18 @@ font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 font-weight: 50;
 text-decoration: underline;
 font-style: italic;
-opacity: 0.8;}
-#div2{background-color: rgba(255, 0, 0, 0.4);
+opacity: 0.8;
+color: #fff;}
+#div2{background-color: #fff;
     text-align: center;
     font-size: x-large;
     text-decoration: solid;
     height: 200px;
     width: 200px;
     margin: 45px;
-    border-color: black;}
+    border-color: black;
+border-radius: 10px;
+height: 300px;}
 #p4{font-size: medium;
     font-style: italic;
     text-decoration: dotted;
@@ -42,8 +47,9 @@ font-weight: 100;
 font-style: italic;
 text-decoration: underline;
 text-decoration-color: brown;
-font-size: xx-large;}
-#div3{background-color: rgba(255, 0, 0, 0.4);
+font-size: xx-large;
+color: #fff;}
+#div3{background-color: #fff;
     font-style: italic;
     text-align: center;
     font-size: x-large;
@@ -51,7 +57,9 @@ font-size: xx-large;}
     height: 250px;
     width: 200px;
     margin: 45px;
-    border-color: black;}
+    border-color: black;
+border-radius: 10px;
+height: 300px;}
     #p7{font-size: medium;
         text-decoration: dotted;
         font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
@@ -61,7 +69,7 @@ font-size: xx-large;}
         text-decoration: solid;
         font-style: italic ;
         opacity: 0.8;}
-        #div4{background-color: rgba(255, 0, 0, 0.4);
+        #div4{background-color: #fff;
             font-style: italic;
             text-align: center;
             font-size: x-large;
@@ -69,7 +77,9 @@ font-size: xx-large;}
             height: 300px;
             width: 200px;
             margin: 45px;
-            border-color: black;}
+            border-color: black;
+            border-radius: 10px;
+            height: 300px;}
             #p9{font-size: medium;
                 text-decoration: dotted;
                 font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
@@ -79,7 +89,7 @@ font-size: xx-large;}
                 text-decoration: solid;
                 font-style: italic ;
                 opacity: 0.8;}
-                #div5{background-color: rgba(255, 0, 0, 0.4);
+                #div5{background-color: #fff;
                     font-style: italic;
                     text-align: center;
                     font-size: x-large;
@@ -87,7 +97,9 @@ font-size: xx-large;}
                     height: 300px;
                     width: 200px;
                     margin: 45px;
-                    border-color: black;}
+                    border-color: black;
+                    border-radius: 10px;
+                    height: 300px;}
                     #p11{font-size: medium;
                         text-decoration: dotted;
                         font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
@@ -128,7 +140,7 @@ font-size: xx-large;}
                                 text-align: center;
                                 font-weight: 50; ;
                                 opacity: 0.8;}
-                                
+                            
                                 
                         
                         
